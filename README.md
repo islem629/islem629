@@ -50,10 +50,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/islem629/islem629/output/snake.svg" alt="Snake animation" />
-
-###
